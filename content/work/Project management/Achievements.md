@@ -1,0 +1,8 @@
+- raised more than 10m USD in funding
+- grew the team from 3 to 20 people
+- created more than xxsqkm of new protected areas
+- measurably improved management of you sqkm
+- supported création of co-management systems in more than 50 communities and measurably improved livelihoods of more than XX people
+- wrote and participated in YY scientific publications
+- supported creation of management measures to protect critical endangered species of shark and ray (hammerhead and guitarfish)
+- established the first offshore mpa in Tanzania

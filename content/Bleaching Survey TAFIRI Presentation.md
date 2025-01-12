@@ -1,0 +1,8 @@
+- Compare with 2016 results - OK
+- Add slide on methodology - instead of the slide with the paper - PL
+- Compare with mortality from other regions? Any data from Australia for example? What about the WCS data from Mada? - OK
+- A plot showing comparison before and after for the same sites. Do we have this data for all sites? - OK
+- The recently dead plot shows that we went after the bleaching? - OK
+- Logo from Bloomberg - OK
+- The methodology is a rapid assessment. Not the hottest year on earth. Maybe on records? Not even sure... - OK
+- **2023** was the warmest year in the 174-year observational record - OK

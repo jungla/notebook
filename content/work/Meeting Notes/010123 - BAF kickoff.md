@@ -1,0 +1,19 @@
+*Cash flow advance*
+- **Finance** team prepare Cash Flow Advance - prepared and with Hamisi for review and submission. To be sent on Monday.
+
+*Mwambao’s subgranting agreement*
+- **Jean** to send the subgrantee vs subcontract form to Elias regarding Mwambao’s subgranting agreement - checked with Laura. Elias will send email to Said and Ali with template form and agreement
+- **Finance** team to prepare subgranting agreement for Mwambao following Annex 1b - 20th Sept
+- **Finance** team - to review Grant Implementation Guide
+
+*Subcontracts*
+- **Finance** team to send WCS Template for subcontracts to Nuri for approval. This is to be sent to Nuri for approval on Monday.
+
+*Prep grant*
+- **Jean,** to write activity report for activities under the consultancy in the pre-grant, mid-October
+- **Finance** team to prepare a full financial report of the prep grant, mid-October
+
+*FAR preparation*
+- **Jean** to draft workplan for Nuri. Done and to be shared with Elias for submission on Monday
+- **Finance** team to prepare the by the 30th of Sept. FAR is due NO LATER than 30th October (60 days after signature, 1st of Sept)
+- **Jean** to propose date for meeting with Nuri on the 21st tentatively - done. The meeting is set for Thursday 5th

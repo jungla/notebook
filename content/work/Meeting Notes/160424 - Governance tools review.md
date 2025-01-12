@@ -1,0 +1,5 @@
+- METT4/iMET review --> evidence METT review
+- Community Governance Tools: NRGT, Mwambao's, TNC's, SAGE (?), WF, ???
+- Questions on data for indicator's guide
+- Plan for targets for project-specific indicators
+- Implementation strategy (?)

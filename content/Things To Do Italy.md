@@ -1,0 +1,25 @@
+- [ ] Sharks updating species names and downloading images
+- [ ] Analysis on catch,
+- Kizimkazi
+- Mkokotoni
+- Moa
+- Ndumbani
+- Mkoani
+- fumba
+- Msuka
+- Wesha
+
+- [ ] Description activities USAID, budget
+- [x] Budget MPAFund/Tiffany ✅ 2025-01-03
+- [ ] Concept UK Ocean
+- [ ] Concept Biodiversity Credits
+	- Do you have a reference for the Sevimbo methodology?
+	- The targets of 30% and 60% of the MPA are ambitious. It will depend on the level of protection required to achieve them
+	- On how many Ha of MPA and at what level of protection, are the revenues calculated?
+	- Is WCS the implementing partner in this concept?
+	- How are the credits going to be shared?
+	- If WCS is responsible for hiring staff and managing the on the ground activities, what is the role of GEP? Can the diagram in Governance Structure be updated to include the role of the Implementing partners?
+	- Is the budget a proposal? is this to be finalized by WCS and funds deployed through WCS?
+- [x] Send reports to Kristian Metcalf ✅ 2025-01-02
+- [ ] ICCB Proposal - due Feb
+- [ ] Latham Island report

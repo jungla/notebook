@@ -1,0 +1,3 @@
+- A brief presentation on the status of ecosystems from WCS surveys
+- Overview of ongoing projects, including highlights of success
+- Opportunities for future projects, including MPA support and fishery development

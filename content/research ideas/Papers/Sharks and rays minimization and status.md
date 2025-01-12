@@ -1,0 +1,3 @@
+- I already have the plots of catch/effort for gear, season, region and landing site
+- do we have zeros in the data? is the effort uniform? if no zeros, then we need to inflate for the 3 days a week effort
+- calculate the correlation between covariates: do jarife mostly fish in a given season or a given site or a given region?

@@ -1,0 +1,5 @@
+- donors flexibility. typically we report per cost category but to change plan we need to redo budget and workplan
+- plan by week
+- 2 days to prepare budget, 3 days to request funds, 4/5 days to retire activities. the longer the activity the better it is
+- asana training
+- 
