@@ -1,8 +1,0 @@
-- [x] Mombasa + Kenya/TAFIRI - flight + 2 days perdiem ✅ 2023-12-01
-- [ ] Dar regions forum, ferry + 2 days perdiem + hotel
-- [ ] Kobo x 3
-- [x] amazon gear (2 orders) ✅ 2024-03-07
-- [x] trip for Matthieu ✅ 2024-03-07
-- [x] GoPro airport ✅ 2023-12-01
-- [x] Garmin inreach + subscription / twice ✅ 2024-03-07
-- [ ] trips to dar (at least one overnight)

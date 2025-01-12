@@ -1,9 +1,0 @@
-- We had a pause and reflect meeting last December
-	- Simon: great meeting
-- Change in COP in USAID project
-	- Simon: will talk with Hamisi regarding invoicing issues
-- EACOP funding "almost" secured
-- Onboarded Faraja and completed recruitment of new staff. A few more ppl pending
-	- Simon: eager to see a Country communication manager. We need to check budgets
-- Co-management through local NGO
-	- Simon: eager to receive some formal communication about this and our possible involvement
